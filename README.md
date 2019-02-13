@@ -27,6 +27,12 @@
 - [ ] EOS/PKR bankroll
 - [ ] CUSD/PKR (stable coin) bankroll
 
+## Exchanges
+
+- [ ] PKRDAC liquidity network
+- [ ] [BancorX](https://eos.bancor.network)
+- [ ] [NewDex](https://newdex.io)
+
 ## Game Protocals
 
 Development of casino based blockchain game protocols.
