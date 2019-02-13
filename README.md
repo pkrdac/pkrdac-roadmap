@@ -1,11 +1,18 @@
 # PKRDAC Roadmap
 
-## DAC / Community
+## Decentralized Autonomous Community (DAC)
 
 - [ ] DAC smart contracts
 - [ ] DAC custodians
-- [ ] Bug/exploit bounty program
-- [ ] Community initiative program
+
+## Worker Proposal System (WPS)
+
+- [ ] Bug/exploit bounty
+- [ ] Community initiative
+  - [ ] Logos
+  - [ ] Blogs/Articles
+  - [ ] Videos
+- [ ] Localization (Translations)
 
 ## Bankroll
 
