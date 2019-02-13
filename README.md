@@ -33,6 +33,11 @@
 - [ ] [BancorX](https://eos.bancor.network)
 - [ ] [NewDex](https://newdex.io)
 
+## Tokens
+
+- [ ] EOS
+- [ ] [CUSD (stable coin)](https://fiat.carbon.money)
+
 ## Game Protocals
 
 Development of casino based blockchain game protocols.
