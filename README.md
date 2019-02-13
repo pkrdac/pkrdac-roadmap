@@ -23,9 +23,9 @@
 
 ## Bankroll
 
-- [ ] Decentralized & community owned bankrolls
-- [ ] EOS/PKR bankroll
-- [ ] CUSD/PKR (stable coin) bankroll
+- [ ] Community owned bankrolls
+- [ ] No staking or unstaking period
+- [ ] Deposits & withdraws have % fees which goes towards WPS
 
 ## Exchanges
 
@@ -36,9 +36,9 @@
 ## Tokens
 
 - [ ] EOS
-- [ ] [CUSD (stable coin)](https://fiat.carbon.money)
+- [ ] Stable Coin
 
-## Game Protocals
+## Game Protocols
 
 Development of casino based blockchain game protocols.
 
@@ -47,3 +47,7 @@ Development of casino based blockchain game protocols.
   - [ ] [EOS POKER](https://eospoker.win)
 - [ ] Taxas Hold'em
   - [ ] [PokerChained](https://github.com/GrapheneLab/PokerChained)
+    - [ ] Deploy Smart Contracts on testnet
+    - [ ] Interact with PokerChained UI
+    - [ ] Test multi-token support
+
