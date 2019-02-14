@@ -14,12 +14,24 @@
 
 ## Worker Proposal System (WPS)
 
-- [ ] Bug/exploit bounty
+- [ ] Developer Bounties
 - [ ] Community initiative
   - [ ] Logos
   - [ ] Blogs/Articles
   - [ ] Videos
 - [ ] Localization (Translations)
+
+## Developer Bounties
+
+**EOSIO Smart Contracts**
+
+- [ ] Texas Hold'em protocol
+- [ ] BlackJack protocol
+- [ ] Random Number Seed (RNG) generator
+
+## Infrastructure
+
+- [ ] [vRAM & vCPU](https://liquidapps.io)
 
 ## Bankroll
 
