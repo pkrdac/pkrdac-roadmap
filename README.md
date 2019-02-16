@@ -1,5 +1,15 @@
 # PKRDAC Roadmap
 
+EOS Poker has been one of the well designed and popular dApps on EOS. However, EOS Poker recently ceased development operations.
+
+PokerDAC grew out of the EOS Poker Community as a Decentralized Autonomous Community (DAC) owned casino.
+
+PokerDAC’s core mission will be to build a foundation of casino-based EOSIO smart contract protocols. All casino games hosted by PokerDAC will have decentralized authority via its elected custodians and community-owned liquidity bankrolls. Developer bounty programs and community initiative rewards will be implemented through PokerDAC’s internal Worker Proposal System (WPS).
+
+## Partnerships
+
+- [AirDropsDAC announces a partnership with PokerDAC to airdrop PKRDAC tokens!](https://medium.com/@airdropsdac/airdropsdac-announces-a-partnership-with-pokerdac-to-airdrop-pkrdac-tokens-3c5f0d6605ba)
+
 ## Decentralized Autonomous Community (DAC)
 
 - [ ] PKRDAC smart contracts (provided by [eosDAC](https://eosdac.io/))
