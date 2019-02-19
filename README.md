@@ -39,6 +39,12 @@ PokerDAC’s core mission will be to build a foundation of casino-based EOSIO sm
 - [ ] BlackJack protocol
 - [ ] Random Number Seed (RNG) generator
 
+## Wallet Integration
+
+- [ ] [Transit API](https://github.com/eosnewyork/eos-transit)
+- [ ] [Scatter](https://get-scatter.com/)
+- [ ] [Lynx](https://eoslynx.com/)
+
 ## Infrastructure
 
 - [ ] [vRAM & vCPU](https://liquidapps.io)
